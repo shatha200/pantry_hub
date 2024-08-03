@@ -174,6 +174,7 @@ export default function TrackerPage() {
                     minWidth: '40px',
                     padding: 0,
                     fontWeight: 'bold',
+                    bgcolor:"white",
                   }}
                 >
                   -
